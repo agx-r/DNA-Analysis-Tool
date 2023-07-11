@@ -18,7 +18,7 @@ The DNA Analysis Tool is a simple bioinformatics tool that performs basic analys
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Aganow/dna-analysis-tool.git
+   git clone https://github.com/agx-r/dna-analysis-tool.git
    ```
 
 2. Change to the project directory:
