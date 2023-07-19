@@ -27,12 +27,6 @@ The DNA Analysis Tool is a simple bioinformatics tool that performs basic analys
    cd dna-analysis-tool
    ```
 
-3. Install the required dependencies:
-
-   ```shell
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the script:
