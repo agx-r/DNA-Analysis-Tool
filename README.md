@@ -32,7 +32,7 @@ The DNA Analysis Tool is a simple bioinformatics tool that performs basic analys
 1. Run the script:
 
    ```shell
-   python main.py
+   python dna_analysis.py
    ```
 
 2. The DNA Analysis Tool window will open.
